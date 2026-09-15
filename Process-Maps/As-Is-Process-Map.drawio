@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="TNJ0X011IRpa4Ch01CYE">
+    <mxGraphModel dx="1585" dy="2432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="AS-IS PROCESS — FOOD DELIVERY ORDER FULFILLMENT" vertex="1">
+          <mxGeometry height="64" width="380" x="260" y="-1654" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-17" edge="1" parent="1" source="ZTu0-teSCWvkdB4DpLsB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZTu0-teSCWvkdB4DpLsB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" value="Customer Places Order" vertex="1">
+          <mxGeometry height="50" width="202.5" x="338.75" y="-1570" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-18" edge="1" parent="1" source="ZTu0-teSCWvkdB4DpLsB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZTu0-teSCWvkdB4DpLsB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" value="Restaurant Receives Order" vertex="1">
+          <mxGeometry height="50" width="202.5" x="338.75" y="-1500" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-19" edge="1" parent="1" source="ZTu0-teSCWvkdB4DpLsB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ZTu0-teSCWvkdB4DpLsB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" value="Restaurant Accepts Order" vertex="1">
+          <mxGeometry height="50" width="202.5" x="338.75" y="-1430" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-20" edge="1" parent="1" source="ZTu0-teSCWvkdB4DpLsB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ZTu0-teSCWvkdB4DpLsB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" value="Food Preparation" vertex="1">
+          <mxGeometry height="50" width="202.5" x="338.75" y="-1360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-21" edge="1" parent="1" source="ZTu0-teSCWvkdB4DpLsB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZTu0-teSCWvkdB4DpLsB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" value="Delivery Partner Assigned" vertex="1">
+          <mxGeometry height="50" width="202.5" x="338.75" y="-1290" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-22" edge="1" parent="1" source="ZTu0-teSCWvkdB4DpLsB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZTu0-teSCWvkdB4DpLsB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" value="&#xa;Rider Travels to Restaurant&#xa;&#xa;" vertex="1">
+          <mxGeometry height="50" width="202.5" x="338.75" y="-1220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" value="&#xa;Rider Travels to Customer&#xa;&#xa;" vertex="1">
+          <mxGeometry height="50" width="202.5" x="338.75" y="-1080" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-23" edge="1" parent="1" source="ZTu0-teSCWvkdB4DpLsB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZTu0-teSCWvkdB4DpLsB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" value="&#xa;Food Picked Up&#xa;&#xa;" vertex="1">
+          <mxGeometry height="50" width="202.5" x="338.75" y="-1150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-25" edge="1" parent="1" source="ZTu0-teSCWvkdB4DpLsB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZTu0-teSCWvkdB4DpLsB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" value="Customer Receives Order" vertex="1">
+          <mxGeometry height="50" width="211.25" x="334.38" y="-1010" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" value="&lt;pre class=&quot;overflow-visible! px-0!&quot;&gt;&lt;div class=&quot;relative w-full mt-4 mb-1&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;contents&quot;&gt;&lt;div class=&quot;relative&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;border border-token-border-light border-radius-3xl corner-superellipse/1.1 rounded-3xl&quot;&gt;&lt;div class=&quot;h-full w-full border-radius-3xl bg-(--code-block-surface) corner-superellipse/1.1 overflow-clip rounded-3xl [--code-block-surface:var(--bg-elevated-secondary)] dark:[--code-block-surface:var(--composer-surface-primary)] lxnfua_clipPathFallback&quot;&gt;&lt;div class=&quot;relative&quot;&gt;&lt;div class=&quot;pe-11 pt-3&quot;&gt;&lt;div class=&quot;relative z-0 flex max-w-full&quot;&gt;&lt;div id=&quot;code-block-viewer&quot; dir=&quot;ltr&quot; class=&quot;q9tKkq_viewer cm-editor z-10 light:cm-light dark:cm-light flex h-full w-full flex-col items-stretch ͼs ͼ16&quot;&gt;&lt;div class=&quot;cm-scroller&quot;&gt;&lt;pre class=&quot;cm-content q9tKkq_readonly m-0 PDq2pG_selectionAnchorContainer&quot;&gt;&lt;code&gt;Order Completed&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;PDq2pG_selectionAnchor&quot;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;&lt;br&gt;&lt;h3&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="50" width="220" x="325.63" y="-940" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-24" edge="1" parent="1" source="ZTu0-teSCWvkdB4DpLsB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.538;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZTu0-teSCWvkdB4DpLsB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;blockquote&gt;&lt;p class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;&lt;strong&gt;Pain Point 1:&lt;/strong&gt; Actual preparation time may exceed the initial estimate.&lt;span aria-hidden=&quot;true&quot; class=&quot;PDq2pG_selectionAnchor&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;br/&gt;&lt;/blockquote&gt;&lt;br/&gt;&lt;h3&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="50" width="265.63" x="30" y="-1330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong&gt;Pain Point 2:&lt;/strong&gt; Rider dispatch may not be synchronized with food readiness." vertex="1">
+          <mxGeometry height="64" width="202.5" x="650" y="-1297" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong&gt;Pain Point 3:&lt;/strong&gt; ETA may become inaccurate when delivery conditions change." vertex="1">
+          <mxGeometry height="40" width="202.5" x="61.57" y="-1090" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTu0-teSCWvkdB4DpLsB-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong&gt;Pain Point 4:&lt;/strong&gt; Customers may receive limited proactive communication about delays." vertex="1">
+          <mxGeometry height="50" width="190" x="650" y="-1010" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
